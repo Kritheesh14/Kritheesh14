@@ -30,7 +30,7 @@
 [![Kritheesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kritheesh14&bg_color=0c0024&color=bd65ad&line=00fffb&point=05086b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) 
 
 ### Contact me at
-[<img width="64" height="64" src="<img width="64" height="64" src="https://img.icons8.com/nolan/64/gmail-new.png" alt="gmail-new"/>" alt="Gmail"/>]     Kritheesh@gmail.com <br/>
+<img width="64" height="64" src="https://img.icons8.com/nolan/64/gmail-new.png" alt="gmail"/> Kritheesh@gmail.com <br/>
 <img width="64" height="64" src="https://img.icons8.com/nolan/64/linkedin.png" alt="linkedin"/>(www.linkedin.com/in/KritheeshNV)
 
 
