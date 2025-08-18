@@ -24,7 +24,7 @@
 ##### Projects Beyond Tech – Exploring passions that inspire my work.
 ###### Click to view -
 [<img width="64" height="64" src="https://img.icons8.com/nolan/64/camera.png" alt="camera"/>](https://www.instagram.com/thelight.leak/)
-[<img width="64" height="64" src="https://img.icons8.com/nolan/64/picture.png" alt="picture"/>](https://photos.app.goo.gl/BaiCg1CQX4QGbjyx6)
+[<img width="64" height="64" src="https://img.icons8.com/nolan/64/picture.png" alt="picture"/>](https://photos.app.goo.gl/BaiCg1CQX4QGbjyx6)<br/><br/>
 <img width="48" height="48" src="https://img.icons8.com/emoji/48/basketball-emoji.png" alt="basketball-emoji"/>
 <img width="48" height="48" src="https://img.icons8.com/pulsar-gradient/48/gum-.png" alt="gum-"/>
 <br/>
