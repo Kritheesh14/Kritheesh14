@@ -23,8 +23,7 @@
 
 ##### Also Checkout my Hobby pages
 
-https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
- 
+<img width="64" height="64" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="https://www.instagram.com/thelight.leak/"/> 
 
 [![Kritheesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kritheesh14&bg_color=0c0024&color=bd65ad&line=00fffb&point=05086b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) 
 
