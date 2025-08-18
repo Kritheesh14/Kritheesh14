@@ -8,7 +8,7 @@
 - Building projects in **C, Python, and Deep Learning** with real-world use cases.  
 - Interested in **machine learning applications, embedded systems, and AI-driven applications**.  
 
- ⚡ **Fun fact:** I am a petrolhead at heart. 
+ ⚡ **Fun fact:** Engines, Petrol and code keep me running.
 
 #### I code in
 <img width="64" height="64" src="https://img.icons8.com/nolan/64/python.png" alt="python"/><img width="64" height="64" src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/><img width="64" height="64" src="https://img.icons8.com/nolan/64/javascript.png" alt="javascript"/><img width="64" height="64" src="https://img.icons8.com/nolan/64/html.png" alt="html"/><img width="64" height="64" src="https://img.icons8.com/nolan/64/markdown.png" alt="markdown"/><img width="64" height="64" src="https://img.icons8.com/nolan/64/c-plus-plus-logo.png" alt="c-plus-plus-logo"/><img width="64" height="64" src="https://img.icons8.com/nolan/64/c.png" alt="c"/><img width="64" height="64" src="https://img.icons8.com/nolan/64/react-native.png" alt="react-native"/><img width="64" height="64" src="https://img.icons8.com/nolan/64/my-sql.png" alt="my-sql"/><img width="64" height="64" src="https://img.icons8.com/nolan/64/flask.png" alt="flask"/><img width="48" height="48" src="https://img.icons8.com/color/48/tensorflow.png" alt="tensorflow"/><img width="48" height="48" src="https://img.icons8.com/color/48/matplotlib.png" alt="matplotlib"/>
