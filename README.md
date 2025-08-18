@@ -1,7 +1,6 @@
 # Hey! I'm Kritheesh NV
 
-🎓 BTech Computer Science & Engineering | 🤖 AI, ML & Vision Enthusiast
-🏫 PESU ECC
+🎓 BTech Computer Science & Engineering | 🤖 AI, ML & Vision Enthusiast | 🏫 PESU ECC
 
 ## About Me  
 
