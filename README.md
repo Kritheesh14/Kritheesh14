@@ -21,10 +21,12 @@
 <img width="64" height="64" src="https://img.icons8.com/nolan/64/git.png" alt="git"/><img width="64" height="64" src="https://img.icons8.com/nolan/64/github.png" alt="github"/>
 
 
-###### Projects Beyond Tech – Exploring passions that inspire my work.
-
+##### Projects Beyond Tech – Exploring passions that inspire my work.
+###### Click to view -
 [<img width="64" height="64" src="https://img.icons8.com/nolan/64/camera.png" alt="camera"/>](https://www.instagram.com/thelight.leak/)
 [<img width="64" height="64" src="https://img.icons8.com/nolan/64/picture.png" alt="picture"/>](https://photos.app.goo.gl/BaiCg1CQX4QGbjyx6)
+<img width="48" height="48" src="https://img.icons8.com/emoji/48/basketball-emoji.png" alt="basketball-emoji"/>
+<img width="48" height="48" src="https://img.icons8.com/pulsar-gradient/48/gum-.png" alt="gum-"/>
 <br/>
 
 [![Kritheesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kritheesh14&bg_color=0c0024&color=bd65ad&line=00fffb&point=05086b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) 
