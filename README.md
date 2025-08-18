@@ -31,8 +31,7 @@
 
 ### Contact me at
 [<img width="64" height="64" src="<img width="64" height="64" src="https://img.icons8.com/nolan/64/gmail-new.png" alt="gmail-new"/>" alt="Gmail"/>]     Kritheesh@gmail.com <br/>
-[<img width="64" height="64" src="<img width="64" height="64" src="https://img.icons8.com/nolan/64/linkedin.png" alt="linkedin
-" alt="Linkedin"/>](https://www.linkedin.com/in/kritheesh-nv-b1a107366/)
+<img width="64" height="64" src="https://img.icons8.com/nolan/64/linkedin.png" alt="linkedin"/>(www.linkedin.com/in/KritheeshNV)
 
 
 <!--
