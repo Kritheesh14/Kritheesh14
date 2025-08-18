@@ -21,7 +21,7 @@
 <img width="64" height="64" src="https://img.icons8.com/nolan/64/git.png" alt="git"/><img width="64" height="64" src="https://img.icons8.com/nolan/64/github.png" alt="github"/>
 
 
-###### Also Checkout my Hobby pages
+###### Projects Beyond Tech – Exploring passions that inspire my work.
 
 [<img width="64" height="64" src="https://img.icons8.com/nolan/64/camera.png" alt="camera"/>](https://www.instagram.com/thelight.leak/)
 [<img width="64" height="64" src="https://img.icons8.com/nolan/64/picture.png" alt="picture"/>](https://photos.app.goo.gl/BaiCg1CQX4QGbjyx6)
