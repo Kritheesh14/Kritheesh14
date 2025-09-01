@@ -2,6 +2,8 @@
 
 🎓 BTech Computer Science & Engineering | 🤖 AI, ML & Vision Enthusiast | 🏫 PESU ECC
 
+---
+
 ## About Me  
 
 - Passionate about **AI, computer vision, and system-level programming**.  
@@ -9,6 +11,8 @@
 - Interested in **machine learning applications, embedded systems, and AI-driven applications**.  
 
  ⚡ **Fun fact:** Engines, Petrol and code keep me running.
+
+---
 
 #### I code in
 <img width="64" height="64" src="https://img.icons8.com/nolan/64/python.png" alt="python"/><img width="64" height="64" src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/><img width="64" height="64" src="https://img.icons8.com/nolan/64/javascript.png" alt="javascript"/><img width="64" height="64" src="https://img.icons8.com/nolan/64/html.png" alt="html"/><img width="64" height="64" src="https://img.icons8.com/nolan/64/markdown.png" alt="markdown"/><img width="64" height="64" src="https://img.icons8.com/nolan/64/c-plus-plus-logo.png" alt="c-plus-plus-logo"/><img width="64" height="64" src="https://img.icons8.com/nolan/64/c.png" alt="c"/><img width="64" height="64" src="https://img.icons8.com/nolan/64/react-native.png" alt="react-native"/><img width="64" height="64" src="https://img.icons8.com/nolan/64/my-sql.png" alt="my-sql"/><img width="64" height="64" src="https://img.icons8.com/nolan/64/flask.png" alt="flask"/><img width="48" height="48" src="https://img.icons8.com/color/48/tensorflow.png" alt="tensorflow"/><img width="48" height="48" src="https://img.icons8.com/color/48/matplotlib.png" alt="matplotlib"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/matlab.png" alt="matlab"/>
@@ -18,6 +22,7 @@
 
 #### Version Control & COllaboration
 <img width="64" height="64" src="https://img.icons8.com/nolan/64/git.png" alt="git"/><img width="64" height="64" src="https://img.icons8.com/nolan/64/github.png" alt="github"/>
+---
 
 
 ##### Projects Beyond Tech – Exploring passions that inspire my work.
@@ -31,8 +36,8 @@
 [![Kritheesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kritheesh14&bg_color=14001f&color=a000cc&line=00e1ff&point=071b7e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Contact me at :
-<img width="64" height="64" src="https://img.icons8.com/nolan/64/gmail-new.png" alt="gmail"/> Kritheesh@gmail.com <br/>
-<img width="64" height="64" src="https://img.icons8.com/nolan/64/linkedin.png" alt="linkedin"/>(www.linkedin.com/in/KritheeshNV)
+<img width="40" height="40" src="https://img.icons8.com/nolan/64/gmail-new.png" alt="gmail"/> Kritheesh@gmail.com <br/>
+<img width="40" height="40" src="https://img.icons8.com/nolan/64/linkedin.png" alt="linkedin"/>(www.linkedin.com/in/KritheeshNV)
 
 
 <!--
