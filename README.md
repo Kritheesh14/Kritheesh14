@@ -76,15 +76,6 @@ From WakaTime API — will populate automatically once connected
 
 ## 📊 GitHub Stats
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Kritheesh14&show_icons=true&bg_color=0d1117&title_color=ff3131&icon_color=ff3131&text_color=eaeaea&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kritheesh14&background=0d1117&ring=ff3131&fire=ff3131&currStreakLabel=ff3131&sideLabels=eaeaea&currStreakNum=eaeaea&sideNums=eaeaea&dates=999999&hide_border=true" height="165"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kritheesh14&layout=compact&bg_color=0d1117&title_color=ff3131&text_color=eaeaea&hide_border=true" height="165"/>
-</div>
-
 <br/>
 
 <div align="center">
@@ -92,6 +83,19 @@ From WakaTime API — will populate automatically once connected
 [![Kritheesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kritheesh14&bg_color=0d1117&color=ff3131&line=ff3131&point=ff3131&area=true&area_color=ff3131&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
+
+<div align="center">
+<img src="https://github-stats-extended.vercel.app/api?username=Kritheesh14&show_icons=true&bg_color=0d1117&title_color=ff3131&icon_color=ff3131&text_color=eaeaea&hide_border=true&count_private=true" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=Kritheesh14&background=0d1117&ring=ff3131&fire=ff3131&currStreakLabel=ff3131&sideLabels=eaeaea&currStreakNum=eaeaea&sideNums=eaeaea&dates=999999&hide_border=true" height="165"/>
+</div>
+<div align="center">
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Kritheesh14&layout=compact&bg_color=0d1117&title_color=ff3131&text_color=eaeaea&hide_border=true" height="165"/>
+</div>
+<br/>
+<div align="center">
+
+</div>
+<br/>
 
 <br/>
 
