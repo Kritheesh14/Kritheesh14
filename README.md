@@ -19,7 +19,7 @@
 
 <br/>
 
-## 🧭 About Me
+## About Me
 
 ```yaml
 name: Kritheesh NV
@@ -31,7 +31,7 @@ fun_fact: "Engines, petrol, and code keep me running ⚡"
 
 <br/>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -46,9 +46,9 @@ fun_fact: "Engines, petrol, and code keep me running ⚡"
 **Embedded & IoT**
 <br/>
 <img src="https://skillicons.dev/icons?i=arduino&theme=dark" />
-<img width="48" height="48" src="https://img.icons8.com/color/48/esp-32.png" alt="esp32"/>
-<img width="48" height="48" src="https://img.icons8.com/fluency/48/microchip.png" alt="stm32"/>
-<img width="48" height="48" src="https://img.icons8.com/ios-filled/50/mqtt.png" alt="mqtt"/>
+<img src="https://img.shields.io/badge/ESP32-ff3131?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/STM32-ff3131?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/MQTT-ff3131?style=for-the-badge&logo=mqtt&logoColor=white"/>
 
 **ML / Tools**
 <br/>
@@ -60,21 +60,17 @@ fun_fact: "Engines, petrol, and code keep me running ⚡"
 
 <br/>
 
-## ⏱️ Coding Activity
+## Coding Activity
 
 <div align="center">
 
-<!--START_SECTION:waka-->
-```text
-From WakaTime API — will populate automatically once connected
-```
-<!--END_SECTION:waka-->
+*WakaTime tracking not yet connected — this section will populate automatically once linked.*
 
 </div>
 
 <br/>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <br/>
 
@@ -91,15 +87,10 @@ From WakaTime API — will populate automatically once connected
 <div align="center">
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Kritheesh14&layout=compact&bg_color=0d1117&title_color=ff3131&text_color=eaeaea&hide_border=true" height="165"/>
 </div>
-<br/>
-<div align="center">
-
-</div>
-<br/>
 
 <br/>
 
-## 🎯 Beyond Tech
+## Beyond Tech
 
 <div align="center">
 
