@@ -82,7 +82,7 @@ fun_fact: "Engines, petrol, and code keep me running ⚡"
 
 <div align="center">
 <img src="https://github-stats-extended.vercel.app/api?username=Kritheesh14&show_icons=true&bg_color=0d1117&title_color=ff3131&icon_color=ff3131&text_color=eaeaea&hide_border=true&count_private=true" height="165"/>
-<img src="https://streak-stats.demolab.com/?user=Kritheesh14&background=0d1117&ring=ff3131&fire=ff3131&currStreakLabel=ff3131&sideLabels=eaeaea&currStreakNum=eaeaea&sideNums=eaeaea&dates=999999&hide_border=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kritheesh14&background=0d1117&ring=ff3131&fire=ff3131&currStreakLabel=ff3131&sideLabels=eaeaea&currStreakNum=eaeaea&sideNums=eaeaea&dates=999999&hide_border=true" height="165"/>
 </div>
 <div align="center">
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Kritheesh14&layout=compact&bg_color=0d1117&title_color=ff3131&text_color=eaeaea&hide_border=true" height="165"/>
